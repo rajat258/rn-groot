@@ -1,0 +1,17 @@
+export default {
+  login: 'Login',
+  signUp: 'SignUp',
+  drawer: 'DrawerNavigator',
+  drawerStack: 'DrawerStackNavigator',
+  tabNavigator: 'TabNavigator',
+  home: 'Home',
+  settings: 'Settings',
+  profile: 'Profile',
+  video: 'Video',
+  videoDetail: 'VideoDetail',
+  create: 'Create',
+  terms: 'Terms',
+  privacyPolicy: 'PrivacyPolicy',
+  notification: 'Notification',
+  homeDetail: 'homeDetail',
+};

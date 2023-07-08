@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903327488662",
+    "project_id": "ts-assignment-873c3",
+    "storage_bucket": "ts-assignment-873c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903327488662:android:f56dc8c1f8f3e8c0c480b7",
+        "android_client_info": {
+          "package_name": "com.groot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903327488662-7n2a1lfh04cg1h8tn185qt2hs909ujge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrruHCIOQ2jA0hI4AZfGC7WjYLyEnJP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903327488662-7n2a1lfh04cg1h8tn185qt2hs909ujge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
