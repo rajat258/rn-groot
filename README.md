@@ -8,6 +8,19 @@ Experience the power of multi-user functionality with a robust signup and login 
 
 # Features
 
+- 👥✍️ Signup and login module
+- 🔄 State management using Redux
+- 🚀 API data fetching
+- 🔍 Local data searching
+- 📜 Pagination
+- 🗺️ Navigation
+- 🎨 Theme customization
+- 🎥 Video integration
+- 👤 Profile management
+- 📷 Image uploading
+- 🔑 Password changing
+- 🖊️ Integration of third-party libraries (e.g., KeyboardAwareScrollView, WebView, LinearGradient)
+
 # Installation
 
 Clone the project to your device using `git clone https://github.com/rajat258/rn-groot.git`
