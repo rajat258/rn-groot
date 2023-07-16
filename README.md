@@ -19,11 +19,11 @@ Experience the power of multi-user functionality with a robust signup and login 
         height: 400px;
         width: 200px;
         margin: auto;"/>    
-    <img src="./app/assets/github/screenshot3.png" alt="App Screenshot" 
+    <!-- <img src="./app/assets/github/screenshot3.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
         width: 200px;
-        margin: auto;"/>
+        margin: auto;"/> -->
     <img src="./app/assets/github/screenshot4.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
