@@ -6,6 +6,33 @@
 Explore and test fundamental react-native modules and libraries with Groot! This application is your gateway to discover and experiment with various features, including 🚀 API data fetching, 🔍 API data searching, 📜 pagination, 🗺️ navigation, 🎨 theme change, 🎥 video integration, 👤 profile management, 📷 image uploading, 🔑 password changing, and integration of third-party libraries like 🖊️ KeyboardAwareScrollView, 🌐 WebView, 🌈 LinearGradient, and more.
 Experience the power of multi-user functionality with a robust signup and login module and experience with Groot's interactive playground for React Native development. 📱💡
 
+# Screenshots
+
+<div style="display: flex; justify-content: center;">
+  <img src="./app/assets/github/screenshot1.png" alt="App Screenshot" 
+        style="display: block;
+        height: 400px;
+        width: '50%';
+        margin: auto;"/>
+    <img src="./app/assets/github/screenshot2.png" alt="App Screenshot" 
+        style="display: block;
+        height: 400px;
+        width: '50%';
+        margin: auto;"/>    
+    <img src="./app/assets/github/screenshot3.png" alt="App Screenshot" 
+        style="display: block;
+        height: 400px;
+        width: '50%';
+        margin: auto;"/>
+    <img src="./app/assets/github/screenshot4.png" alt="App Screenshot" 
+        style="display: block;
+        height: 400px;
+        width: '50%';
+        margin: auto;"/>
+</div>
+
+More screenshots available [here](https://imgur.com/a/DYwand9).
+
 # Features
 
 - 👥✍️ Signup and login module
