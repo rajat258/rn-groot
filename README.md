@@ -12,22 +12,22 @@ Experience the power of multi-user functionality with a robust signup and login 
   <img src="./app/assets/github/screenshot1.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
-        width: '50%';
+        width: '25%';
         margin: auto;"/>
     <img src="./app/assets/github/screenshot2.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
-        width: '50%';
+        width: '25%';
         margin: auto;"/>    
     <img src="./app/assets/github/screenshot3.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
-        width: '50%';
+        width: '25%';
         margin: auto;"/>
     <img src="./app/assets/github/screenshot4.png" alt="App Screenshot" 
         style="display: block;
         height: 400px;
-        width: '50%';
+        width: '25%';
         margin: auto;"/>
 </div>
 
