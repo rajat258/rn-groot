@@ -6,10 +6,10 @@
 Explore and test fundamental react-native modules and libraries with Groot! This application is your gateway to discover and experiment with various features, including 🚀 API data fetching, 🔍 API data searching, 📜 pagination, 🗺️ navigation, 🎨 theme change, 🎥 video integration, 👤 profile management, 📷 image uploading, 🔑 password changing, and integration of third-party libraries like 🖊️ KeyboardAwareScrollView, 🌐 WebView, 🌈 LinearGradient, and more.
 Experience the power of multi-user functionality with a robust signup and login module and experience with Groot's interactive playground for React Native development. 📱💡
 
-# Download
-- Download the apk from [here](https://apkfab.com/groot/com.groot/apk?h=846a59258146cc1fa166b4326d07d949e5331f80da02597f16ac36d38195ecda).
+## Download
+Download the apk from [here](https://apkfab.com/groot/com.groot/apk?h=846a59258146cc1fa166b4326d07d949e5331f80da02597f16ac36d38195ecda).
 
-# Screenshots
+## Screenshots
 
 <div style="display: flex; justify-content: center;">
   <img src="./app/assets/github/screenshot1.png" alt="App Screenshot" 
@@ -36,7 +36,7 @@ Experience the power of multi-user functionality with a robust signup and login 
 
 More screenshots available [here](https://imgur.com/a/DYwand9).
 
-# Features
+## Features
 
 - 👥✍️ Signup and login module
 - 🔄 State management using Redux
@@ -51,7 +51,7 @@ More screenshots available [here](https://imgur.com/a/DYwand9).
 - 🔑 Password changing
 - 🖊️ Integration of third-party libraries (e.g., KeyboardAwareScrollView, WebView, LinearGradient)
 
-# Installation
+## Installation
 
 Clone the project to your device using `git clone https://github.com/rajat258/rn-groot.git`
 
@@ -90,17 +90,17 @@ Clone the project to your device using `git clone https://github.com/rajat258/rn
 
 No Installation required.
 
-# Run Project
+## Run Project
 
 ```bash
   npx react-native start
 ```
 
-# API Reference
+## API Reference
 
 API used for this project: https://reqres.in/
 
-# Troubleshooting
+## Troubleshooting
 
 If application is not working for android devices follow procedures mentioned below:
 
@@ -109,7 +109,7 @@ If application is not working for android devices follow procedures mentioned be
 - Build > Clean Project
 - Build > Rebuild Project
 
-# Color Reference
+## Color Reference
 
 | Color              | Hex                                                              |
 | ------------------ | ---------------------------------------------------------------- |
