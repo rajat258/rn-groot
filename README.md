@@ -6,6 +6,9 @@
 Explore and test fundamental react-native modules and libraries with Groot! This application is your gateway to discover and experiment with various features, including 🚀 API data fetching, 🔍 API data searching, 📜 pagination, 🗺️ navigation, 🎨 theme change, 🎥 video integration, 👤 profile management, 📷 image uploading, 🔑 password changing, and integration of third-party libraries like 🖊️ KeyboardAwareScrollView, 🌐 WebView, 🌈 LinearGradient, and more.
 Experience the power of multi-user functionality with a robust signup and login module and experience with Groot's interactive playground for React Native development. 📱💡
 
+# Download
+- Download the apk from [here](https://apkfab.com/groot/com.groot/apk?h=846a59258146cc1fa166b4326d07d949e5331f80da02597f16ac36d38195ecda).
+
 # Screenshots
 
 <div style="display: flex; justify-content: center;">
